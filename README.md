@@ -18,7 +18,7 @@ Puedes ver la versión publicada en GitHub Pages aquí:
 - Las tareas por defecto incluyen:
   - 🍔 Comer → eat  
   - 🏋️‍♂️ Hacer ejercicio → exercise  
-  - 💻 Trabajar o estudiar → playing  
+  - 💻 Trabajar o Jugar → playing  
   - 🛏 Dormir → sleep  
 - Haz clic en cualquier emoji/tarea para eliminarlo de la lista.
 - Interfaz limpia y ligera.
@@ -28,10 +28,26 @@ Puedes ver la versión publicada en GitHub Pages aquí:
 
 ## 📦 Tecnologías
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Zustand](https://zustand-demo.pmnd.rs/)
-- [TypeScript](https://www.typescriptlang.org/)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="48" height="48" />
+      <br/>React
+    </td>
+    <td align="center">
+      <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48" />
+      <br/>Vite
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" width="48" height="48" />
+      <br/>Zustand
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="48" height="48" />
+      <br/>TypeScript
+    </td>
+  </tr>
+</table>
 
 ---
 
