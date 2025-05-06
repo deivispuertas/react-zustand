@@ -58,7 +58,7 @@ Puedes ver la versión publicada en GitHub Pages aquí:
 git clone https://github.com/deivispuertas/react-zustand.git
 
 # 2. Entrar al directorio
-cd React-Todos
+cd react-zustand
 
 # 3. Instalar dependencias
 npm install
