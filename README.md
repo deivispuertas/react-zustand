@@ -8,7 +8,7 @@ Permite agregar tareas usando emojis, y eliminarlas haciendo clic sobre ellas.
 ## 🚀 Demo
 
 Puedes ver la versión publicada en GitHub Pages aquí:  
-👉 [https://deivispuertas.github.io/React-Todos/](https://deivispuertas.github.io/React-Todos/)
+👉 [https://deivispuertas.github.io/react-zustand](https://deivispuertas.github.io/react-zustand)
 
 ---
 
@@ -39,7 +39,7 @@ Puedes ver la versión publicada en GitHub Pages aquí:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/deivispuertas/React-Todos.git
+git clone https://github.com/deivispuertas/react-zustand.git
 
 # 2. Entrar al directorio
 cd React-Todos
